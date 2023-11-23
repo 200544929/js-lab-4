@@ -22,7 +22,7 @@
             "Mango Chunks",
             "Vanilla Base"
         ],
-        "image": "https://200544929.github.io/js-lab-4/images/chocolate-mint.svg"
+        "image": "https://200544929.github.io/js-lab-4/images/peach-mango.svg"
     }, 
     {
         "name": "Strawberry Sprinkle",
@@ -33,7 +33,7 @@
             "Some Sprinkles",
             "Vanilla Base"
         ],
-        "image": "https://200544929.github.io/js-lab-4/images/chocolate-mint.svg"
+        "image": "https://200544929.github.io/js-lab-4/images/strawberry-sprinkle.svg"
     },
     {
             "name": "Watermelon Delight",
@@ -44,7 +44,7 @@
                 "Milk",
                 "Melon Chunks"
             ],
-        "image": "https://200544929.github.io/js-lab-4/images/chocolate-mint.svg"
+        "image": "https://200544929.github.io/js-lab-4/images/ice-cream-xtra1.svg"
     },
     {
         "name": "Freshii Litchi",
@@ -55,6 +55,6 @@
             "Sugar",
             "Litchi Boba"
         ],
-        "image": "https://200544929.github.io/js-lab-4/images/chocolate-mint.svg"
+        "image": "https://200544929.github.io/js-lab-4/images/ice-cream-xtra2.svg"
     }]
 }
