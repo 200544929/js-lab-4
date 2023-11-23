@@ -12,7 +12,7 @@
             "Peppermint Sprinkle",
             "Vanilla Base"
         ],
-        "image": ""
+        "image": "https://200544929.github.io/js-lab-4/images/chocolate-mint.svg"
     }, {
         "name": "Peach Mango",
         "calories": 350,
@@ -22,7 +22,7 @@
             "Mango Chunks",
             "Vanilla Base"
         ],
-        "image": ""
+        "image": "https://200544929.github.io/js-lab-4/images/chocolate-mint.svg"
     }, 
     {
         "name": "Strawberry Sprinkle",
@@ -33,7 +33,7 @@
             "Some Sprinkles",
             "Vanilla Base"
         ],
-        "image": ""
+        "image": "https://200544929.github.io/js-lab-4/images/chocolate-mint.svg"
     },
     {
             "name": "Watermelon Delight",
@@ -44,7 +44,7 @@
                 "Milk",
                 "Melon Chunks"
             ],
-        "image": ""
+        "image": "https://200544929.github.io/js-lab-4/images/chocolate-mint.svg"
     },
     {
         "name": "Freshii Litchi",
@@ -55,6 +55,6 @@
             "Sugar",
             "Litchi Boba"
         ],
-        "image": ""
+        "image": "https://200544929.github.io/js-lab-4/images/chocolate-mint.svg"
     }]
 }
