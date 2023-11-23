@@ -1,0 +1,60 @@
+{
+    "companyName": "I-Scream Company Inc.",
+    "headOffice": "North Pole",
+    "established": 2023,
+    "active": true,
+    "topFlavors": [{
+        "name": "Chocolate Mint",
+        "calories": 300,
+        "type": "ice-cream",
+        "ingredients": [
+            "Chocolate Syrup",
+            "Peppermint Sprinkle",
+            "Vanilla Base"
+        ],
+        "image": ""
+    }, {
+        "name": "Peach Mango",
+        "calories": 350,
+        "type": "milkshake-type ice-cream",
+        "ingredients": [
+            "Peach Syrup",
+            "Mango Chunks",
+            "Vanilla Base"
+        ],
+        "image": ""
+    }, 
+    {
+        "name": "Strawberry Sprinkle",
+        "calories": 400,
+        "type": "ice-cream",
+        "ingredients": [
+            "Strawberry Syrup",
+            "Some Sprinkles",
+            "Vanilla Base"
+        ],
+        "image": ""
+    },
+    {
+            "name": "Watermelon Delight",
+            "calories": 323,
+            "type": "gelato", 
+            "ingredients": [
+                "Chocolate Fudge Sauce",
+                "Milk",
+                "Melon Chunks"
+            ],
+        "image": ""
+    },
+    {
+        "name": "Freshii Litchi",
+        "calories": 310,
+        "type": "gelato",
+        "ingredients": [
+            "Litchi",
+            "Sugar",
+            "Litchi Boba"
+        ],
+        "image": ""
+    }]
+}
